@@ -28,7 +28,7 @@
                                 </connections>
                             </segmentedControl>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Label" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="q3w-Sf-WLH">
-                                <rect key="frame" x="72" y="196" width="256" height="21"/>
+                                <rect key="frame" x="0.0" y="155" width="393" height="103"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="20"/>
                                 <nil key="textColor"/>
@@ -39,8 +39,8 @@
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                     </view>
                     <connections>
-                        <outlet property="myLabel" destination="q3w-Sf-WLH" id="Ca3-N4-yA4"/>
-                        <outlet property="segmentedControl" destination="fQ0-zu-yPS" id="aXh-zb-yAR"/>
+                        <outlet property="myLabel" destination="q3w-Sf-WLH" id="YNu-me-TX2"/>
+                        <outlet property="segmentedControl" destination="fQ0-zu-yPS" id="39n-dI-gPz"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
